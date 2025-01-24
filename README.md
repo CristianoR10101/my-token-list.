@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Metaplex Foundation Project Directory
 This repository is a directory of the projects that the Metaplex Foundation works on. 
 
@@ -96,3 +97,6 @@ The following repositories are no longer maintained by the Metaplex Foundation.
 - **The Program Graveyard** - [GitHub](https://github.com/metaplex-foundation/the-graveyard)
   
   The Rust programs that are we no longer maintain. 
+=======
+# my-token-list.
+>>>>>>> ed3bedad2955eb9b3f5d2eaf4b4f4946b8dab735
